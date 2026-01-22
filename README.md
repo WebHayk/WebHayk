@@ -11,7 +11,7 @@ so feel free to reach out and connect 🤝
 
 <hr />
 
-My best three articles
+**My best three articles**
 
 <table>
    <thead>
