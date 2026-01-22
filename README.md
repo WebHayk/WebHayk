@@ -1,7 +1,7 @@
 ## Hey I'm Hayk – Software Engineer, Tech Writer, Engineering Mentor
 
 🥷 Software Engineer<br />
-👨‍🏫 Frontend Engineering Mentor at [Result School](https://result-ai.tech/) — worked with 50+ students
+👨‍🏫 Frontend Engineering Mentor at [Result School](https://result-ai.tech/) — worked with 50+ students <br/>
 📚 Delivered 15+ master classes for students via remote calls  <br/>
 🧠 Writing about JavaScript & modern web development  <br />
 🌍 Community member at [This is Learning](https://thisislearning.dev/) <br />
