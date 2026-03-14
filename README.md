@@ -4,7 +4,7 @@
 👨‍🏫 Frontend Engineering Mentor at [Result School](https://result-ai.tech/) — worked with 50+ students <br/>
 📚 Delivered 15+ master classes for students via remote calls  <br/>
 🧠 Writing about JavaScript & modern web development  <br />
-🌍 Community member at [This is Learning](https://thisislearning.dev/) <br />
+🌍 Community member at [Playful Programming](https://playfulprogramming.com/) <br />
 
 I'm always open to hearing about new and exciting ideas and opportunities,  
 so feel free to reach out and connect 🤝
